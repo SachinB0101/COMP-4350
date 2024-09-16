@@ -7,7 +7,7 @@ COMP 4350-A01 Group 9
 | Sachin Bhatt | SachinB0101 | bhatts1@myumanitoba.ca |  
 | Meixuan Chen | njzfjiang   | chenm7@myumanitoba.ca  |
 | Densson Zhu  | zhude2 | zhud2@myumanitoba.ca |
-| Troy Thomas |  | thomast9@myumanitoba.ca |
+| Troy Thomas | TroyT21 | thomast9@myumanitoba.ca |
 | Ifeanyi Ochiagha | Francis518 |ochiaghi@myumanitoba.ca|
 
 ### Overview
