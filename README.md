@@ -2,8 +2,8 @@
 COMP 4350-A01 Group 9
 ### Team Members
 
-| Name | Username in Github  |   email 
-|--|--|--|--|
+| Name | Username in Github  |   email |
+|------|---------------------|---------|
 | Sachin Bhatt | SachinB0101 | bhatts1@myumanitoba.ca |  
 | Meixuan Chen | njzfjiang   | chenm7@myumanitoba.ca  |
 | Densson Zhu  |  | zhud2@myumanitoba.ca |
@@ -34,10 +34,14 @@ Recipe Shop is a mobile and web based application that allows users to find reci
 ![Architecture Diagram](https://github.com/SachinB0101/COMP-4350/blob/main/Documentation/Architecture.jpg)
 
 ### Technology
-Front End: React, Android Studio 
-API: Express.js, Edamam
-DB: MongoDB
-Server: Python
-Code Management: Github
+**Front End**: React, Android Studio 
+
+**API**: Express.js, Edamam
+
+**Database**: MongoDB
+
+**Server**: Python
+
+**Code Management**: Github
 
 ### Work Division
